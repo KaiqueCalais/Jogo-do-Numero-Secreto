@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-const numeroMaximoPossivel = 100;
+const numeroMaximoPossivel = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 
 console.warn(`O número secreto é ${numeroSecreto}.`);
