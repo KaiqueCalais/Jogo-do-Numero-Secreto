@@ -2,7 +2,7 @@
 
 <br/>
 
-<h2>Forma de jogar:</h2>
+<h2>Forma de jogar</h2>
 <p>Um número secreto é sorteado toda rodada e você terá de adivinhá-lo.</p>
 <p>Escolha um número entre os valores mínimo e máximo. Caso você erre, será exibida uma mensagem informando se o número secreto é maior ou menor que o número que você chutou e você poderá chutar novamente.</p>
 <p>Sem limite de tentativas.</p>
@@ -11,12 +11,12 @@
 
 <br/>
 
-<h2>Sobre:</h2>
+<h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
 <br/>
 
-<h2>Linguagens utilizadas:</h2>
+<h2>Linguagens utilizadas</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
